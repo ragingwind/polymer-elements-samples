@@ -1,0 +1,6 @@
+{
+  "name": "polymer-elements-samples",
+  "dependencies": {
+    "polymer": "#^1.0.0"
+  }
+}
